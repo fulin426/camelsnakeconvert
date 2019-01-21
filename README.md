@@ -7,7 +7,7 @@ Try out the [Demo](https://camelsnakeconvert.herokuapp.com/)
 
 ##Running Locally
 
-git clone https://github.com/fulin426/Amp-Search.git
+git clone https://<i></i>github.com/fulin426/camelsnakeconvert.git
 
 npm install
 
