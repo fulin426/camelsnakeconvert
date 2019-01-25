@@ -1,10 +1,11 @@
 import React from 'react';
 
 const inputForm = (props) => {
+
   return(
   <div className="container">
     <div className="row">
-      <div className="col">
+      <div className="col-sm-6">
         <div className="form-group">
           <label htmlFor="exampleFormControlTextarea1">snake_case</label>
           <textarea
@@ -16,7 +17,7 @@ const inputForm = (props) => {
             </textarea>
         </div>
       </div>
-      <div className="col">
+      <div className="col-sm-6">
         <div className="form-group">
           <label htmlFor="exampleFormControlTextarea1">camelCase</label>
           <textarea
